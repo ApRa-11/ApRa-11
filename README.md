@@ -1,17 +1,16 @@
 # Hi there, I'm Apparna Raj. 👋
 
-🎓 Final year student at Parul University. 
-💻 Python | Problem Solving | Learning Web Development  
-📚 Currently learning: Flask, APIs, and Git  
-🔭 Working on: Small personal projects in Python  
-🌱 Open to internships and learning opportunities in software development
+Final year Computer Applications student,
+Currently working on Machine Learning.
+Created ML based projects.
 
 ## 🛠️ Skills
 - Python
 - Data Structures & Algorithms
-- HTML | CSS | JavaScript
+- React
+- Node.js, Expressjs
 - JSON, APIs
-- Basics of Git & GitHub
+- Git & GitHub
 
 ## 📫 How to reach me:
 - Email: apparnaraj28@gmail.com
